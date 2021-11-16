@@ -7,7 +7,7 @@ print('Hola "3.14"')
 print(3.14)
 print("\thola mundo! \n")
 print('c')
-# print('👽')
+print('👽')
 
 
 # Numeros & Operaciones
